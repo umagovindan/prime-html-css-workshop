@@ -1,0 +1,21 @@
+h1 {
+  color :#03a1fc;
+  background-color : green;
+}
+body{
+  background-color : pink;
+}
+li {
+  background-color : red;
+  color : green;
+}
+li:nth-child(3){
+  background-color : black;
+}
+#make-me-blue{
+  background-color : blue;
+  
+}
+.myClass{
+  background-color : white;
+}
